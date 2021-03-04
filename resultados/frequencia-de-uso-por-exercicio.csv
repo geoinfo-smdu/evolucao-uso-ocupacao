@@ -1,0 +1,39 @@
+TIPO DE USO DO IMOVEL,ocorrencia em exercícios,quantidade
+apartamento,26,24336035
+armazéns gerais e depósitos,26,204678
+"asilo, orfanato, creche, seminário ou convento",26,15428
+"cinema, teatro, casa de diversão, clube ou congênere",26,14269
+clube esportivo,26,14167
+cortiço,26,46479
+escola,26,166616
+escritório ou consultório,26,2267258
+"estação radioemissora, de televisão ou empresa jornalística",26,6625
+"flat, não residencial",17,366085
+"flat, residencial",17,68291
+garagem (exclusive em prédio em condomínio),26,64287
+"garagem em edifício de escritórios, consultórios ou misto",26,682469
+garagem em edifício de uso exclusivamente residencial,26,3835245
+"garagem, em prédio de garagens",26,236590
+"hospital, ambulatório, casa de saúde e assemelhados",26,33500
+"hotel, pensão ou hospedaria",26,47625
+indústria,26,361242
+loja,26,1238399
+loja e residência (predominância comercial),26,1241173
+loja em edifício em condomínio,26,545892
+oficina,26,270014
+"outras edificações do tipo (uso coletivo), com utilização múltipla",26,67385
+"outras edificações do tipo (uso comércio), com utilização múltipla",26,463015
+"outras edificações do tipo (uso especial), com utilização múltipla",26,30653
+"outras edificações do tipo (uso serviço), com utilização múltipla",26,122874
+posto de serviço,26,56528
+"prédio de apartamento, não em condomínio, de uso exclusivamente residencial",26,41333
+"prédio de apartamento, não em condomínio, de uso misto (apartamentos e escritórios e/ou consultórios), com ou sem loja (predominância residencial)",26,78519
+"prédio de escritório ou consultório, não em condomínio, com ou sem lojas",26,626598
+"prédio de escritório, não em condomínio, de uso misto (apartamentos e escritórios e/ou consultórios) com ou sem loja (predominância comercial)",26,5297
+residência,26,25607990
+"residência coletiva (mais de uma residência no lote), exclusive cortiço",26,5038552
+residência e outro uso (predominância residencial),26,2061458
+residência horizontal - padrão b,3,15
+residência vertical - padrão c,3,3
+templo,26,130420
+terreno,26,3348846
