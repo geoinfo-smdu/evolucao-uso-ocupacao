@@ -1,5 +1,6 @@
 IPTU/*
 GIS/SIRGAS_SHP_quadraMDSF.zip
+resultados/densidade_construtiva/IPTU_quadras_densidade_construtiva.gpkg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
